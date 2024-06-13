@@ -1,0 +1,148 @@
+
+.first_button{
+    background:red;
+    color:white;
+    border-radius:2px;
+    border:none;
+    height:26px;
+    width:100px;
+    margin-right: 8px;
+    cursor: pointer;
+
+}
+.first_button:hover{
+    background-color: rgb(180, 162, 162);
+}
+.first_button:active{
+    background-color: rgb(48, 44, 44);
+
+}
+.secoud_button:hover{
+    background-color: blue;
+    color:white;
+}
+.secoud_button{
+    background-color: white;
+    color:rgb(70, 70, 196);
+    
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-color:rgb(70, 70, 196) ;
+    border-radius: 2px;
+    border: 2px solid rgb(70, 70, 196);
+    cursor: pointer;
+    transition: background-color 1s;
+
+}
+.third{
+    background:rgb(70, 70, 196);
+    color:white;
+    border:none;
+    border-radius: 50px;
+    margin-left: 8px;
+    cursor: pointer;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+
+}
+.third:active{
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+}
+.ubarbatton{
+    background:black;
+    color:white;
+    width: 100px;
+    height: 26px;
+    border: none;
+}
+.addtocart{
+    background: rgb(255, 216, 20);
+    color:black;
+    border: none;
+    border-radius:45px;
+    cursor: pointer;
+    height: 26px;
+    width: 80px;
+    margin-left:8px;
+}
+
+.signup{
+    background: green;
+    color:white;
+    height: 26px;
+    width:80px;
+    margin-left: 8px;
+    border: none;
+    border-radius: 60px;
+}
+.getstarted{
+    background: rgb(121, 82, 179);
+    color:white;
+    height: 26px;
+    width:80px;
+    margin-left: 8px;
+    border: none;
+    border-radius: 10px;
+}
+.download{
+    background:white;
+    color:black;
+    height: 26px;
+    width:80px;
+    margin-left: 8px;
+    border: darkblack;
+    border-radius: 7px;
+}
+.applay{
+    background: rgb(121, 82, 179);
+    color:white;
+    height: 26px;
+    width:180px;
+    margin-left: 8px;
+    border: none;
+    border-radius: 10px;
+}
+.save{
+    background:white;
+    color:black;
+    height: 26px;
+    width:80px;
+    margin-left: 8px;
+    border: darkblack;
+    border-radius: 7px;
+}
+.price{
+    color:rgb(0, 118, 0);
+}
+.buy{
+    background: rgb(255, 164, 28);
+    color:black;
+    border: none;
+    border-radius:45px;
+    cursor: pointer;
+    height: 26px;
+    width: 90px;
+    margin-left:8px;
+}
+.ma{
+    margin-right: 10px;
+}
+.mas{
+    margin-left: 20px;
+}
+.bshadow{
+    background: green;
+    color:white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border:none;
+}
+.bshadow:hover{
+    box-shadow:5px 5px 15px rgba(0,0,0,0.30);
+}

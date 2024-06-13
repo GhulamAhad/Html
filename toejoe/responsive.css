@@ -1,0 +1,78 @@
+@media screen and (max-width:600px) {
+    
+        #first_page {
+            height: none;
+        }
+    
+        .nav_controlar {
+            display: block;
+            margin: none;
+        }
+    
+        .nav_controlar {
+            margin: 0px;
+            padding: 20px;
+        }
+    
+        .maintaning {
+            margin: 0px;
+            padding: 0px;
+        }
+    
+        .butt {
+            padding-left: 13px;
+            margin: 0px;
+            width: 300px;
+        }
+    
+        .butt input {
+            width: 100px;
+        }
+    
+        .about_us_countener {
+            padding: 0px;
+            margin: 0px;
+        }
+    
+        .about_us_countener_contant {
+            flex-wrap: wrap;
+        }
+    
+        .pricing_mantenance {
+            margin: 0%;
+            padding: 0%;
+        }
+    
+        .Pricing_blocks {
+            flex-wrap: wrap;
+        }
+    
+        .first_services_portion {
+            flex-wrap: wrap;
+        }
+    
+        .secound_servuces_portion {
+            flex-wrap: wrap;
+        }
+    
+        .services_heading_contener {
+            display: block;
+        }
+    
+        .team_picture {
+            flex-wrap: wrap;
+        }
+    
+        .abot_content_para_and_img {
+            flex-wrap: wrap;
+        }
+    
+        .abot_content_para_and_img img {
+            width: 270px;
+        }
+    
+        .foot_resizing {
+            padding-left: none;
+        }
+
+}

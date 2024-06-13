@@ -1,0 +1,40 @@
+/* @media screen and(max-width:600px) {
+  #mainsection1 {
+      height: 150vh;
+  }
+
+  .section1 ul i {
+      display: block;
+      padding-left: 15px;
+
+  }
+
+  .links li {
+      display: none;
+  }
+
+  .resizing-img img {
+      width: 44vh;
+      height: 1.4vw;
+      margin: none;
+      padding-right: 30px;
+  }
+
+  .img-text {
+      padding-right: 30px;
+
+  }
+  .s2subh2{
+      flex-wrap: wrap;
+  }
+  #mainsection2{
+      height: 150vh;
+  }
+  #mainsection3{
+      margin-top: 58vh;
+  }
+  .content{
+
+      width: 40px;
+  }
+} */

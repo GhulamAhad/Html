@@ -1,0 +1,72 @@
+.body{
+    background:white;
+
+}
+.TICKFAW{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    width:300px;
+    line-height: 26px;
+    margin-bottom: 5px;
+}
+.statics{
+    color:gray;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.marques{
+    color:gray;
+    margin-top: 10px;
+}
+.comment{
+    color:gray;
+    width: 280px;
+}
+.agree{
+    background: rgb(199, 21, 21);
+    color:black;
+}.agree a{
+    text-decoration: none;
+    color:black;
+}
+.agree:hover{
+    color:white;
+    background: rgb(138, 117, 117);
+    box-shadow:5px 5px 20px rgba(0,0,0,0.90);
+}
+.imge img{
+
+    width: 200px;
+    border-radius: 40px;
+    
+}
+.serch-bar:hover{
+    border: none;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.90);
+}
+.alig{
+    text-align: center;
+    font-weight: bolder;
+}
+.alig button{
+    background: blue;
+    color:white;
+    width: 50px;
+    height: 20px;
+    border-radius: 50px;
+    border: none;
+
+}
+.alig button:hover{
+    background: rgb(187, 158, 158);
+    color:black;
+}
+.alig button:active{
+    background: rgb(158, 180, 187);
+    color:rgb(25, 71, 133);
+    box-shadow:10px 10px 20px rgba(0,0,0,0.90)
+}
+.logo{
+    background: blue;
+}
